@@ -4,9 +4,6 @@
 
 <h3>👋 Hi! there!</h3>
 <h4>I'm Frontend Web Engineer in Korea</h4>
-<h3>Favorite Tech Stack</h3>
-<h4>Frontend: React(Vanilla JS, TypeScript) / Mobile: Flutter(Dart)</h4>
-<h4>BaaS: Firebase</h4>
 
 <h3>📌Stack</h3>
 <h4>Technology used<h4>
@@ -14,7 +11,6 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/SCSS-fd79a8?style=flat-square&logo=Sass&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/></a>
 <br><img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img>
 <br>
